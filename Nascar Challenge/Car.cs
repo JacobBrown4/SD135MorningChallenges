@@ -191,6 +191,7 @@ namespace Nascar_Challenge
             {
                 double loss = Fuel - 22;
                 Console.WriteLine($"This tank was overfilled and you lost {loss} gallons of fuel");
+                Fuel -= loss;
             }
             else if (Fuel == 22)
                 Console.WriteLine("Full tank!");

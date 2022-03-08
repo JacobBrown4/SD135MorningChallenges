@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W1D4 Class", "W1D4 Class\W1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nascar Challenge", "Nascar Challenge\Nascar Challenge.csproj", "{C2F4C584-3765-4D07-BABE-B2957C01E98D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorChallenge", "CalculatorChallenge\CalculatorChallenge.csproj", "{88243FA0-90E8-4273-8478-1179BF99A996}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C2F4C584-3765-4D07-BABE-B2957C01E98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2F4C584-3765-4D07-BABE-B2957C01E98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2F4C584-3765-4D07-BABE-B2957C01E98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88243FA0-90E8-4273-8478-1179BF99A996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88243FA0-90E8-4273-8478-1179BF99A996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88243FA0-90E8-4273-8478-1179BF99A996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88243FA0-90E8-4273-8478-1179BF99A996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
