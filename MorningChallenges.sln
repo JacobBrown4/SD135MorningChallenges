@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nascar Challenge", "Nascar 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorChallenge", "CalculatorChallenge\CalculatorChallenge.csproj", "{88243FA0-90E8-4273-8478-1179BF99A996}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoInsurance", "KomodoInsurance\KomodoInsurance.csproj", "{92BA27F1-FDFF-49E7-8AA0-E5A03B8E1FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoInsuranceUnitTests", "KomodoInsuranceUnitTests\KomodoInsuranceUnitTests.csproj", "{17DEB92C-BFEC-42FB-8325-06EA3C2140DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{88243FA0-90E8-4273-8478-1179BF99A996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88243FA0-90E8-4273-8478-1179BF99A996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88243FA0-90E8-4273-8478-1179BF99A996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92BA27F1-FDFF-49E7-8AA0-E5A03B8E1FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BA27F1-FDFF-49E7-8AA0-E5A03B8E1FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BA27F1-FDFF-49E7-8AA0-E5A03B8E1FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BA27F1-FDFF-49E7-8AA0-E5A03B8E1FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DEB92C-BFEC-42FB-8325-06EA3C2140DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DEB92C-BFEC-42FB-8325-06EA3C2140DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DEB92C-BFEC-42FB-8325-06EA3C2140DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DEB92C-BFEC-42FB-8325-06EA3C2140DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
