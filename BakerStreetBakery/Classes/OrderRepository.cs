@@ -17,7 +17,7 @@ namespace BakerStreetBakery.Classes
             {
                 _orders.Add(order);
             }
-            bool wasAdded = (_orders.Count() > startingCount) ? true : false;
+            bool wasAdded = (_orders.Count() > startingCount);
             return wasAdded;
         }
         public bool OrderNumberAlreadyExist(int id)
@@ -36,16 +36,24 @@ namespace BakerStreetBakery.Classes
         {
             return _orders;
         }
+        public List<Order> GetOrdersWithMoreThanOneBatch()
+        {
+            return _orders.Where(order => order.Batches > 1).ToList();
+        }
         public Order GetOrderByOrderNumber(int id)
         {
-            foreach (var order in _orders)
-            {
-                if (order.OrderNumber == id)
-                {
-                    return order;
-                }
-            }
-            return null;
+            // LINQ
+            return _orders.Where(o => o.OrderNumber == id).SingleOrDefault();
+
+
+            //foreach (var order in _orders)
+            //{
+            //    if (order.OrderNumber == id)
+            //    {
+            //        return order;
+            //    }
+            //}
+            //return null;
         }
         public bool RemoveOrder(Order order)
         {
