@@ -1,6 +1,0 @@
-C:\ElevenFiftyProjects\135SD\MorningChallenges\KomodoInsurance\bin\Debug\KomodoInsurance.dll
-C:\ElevenFiftyProjects\135SD\MorningChallenges\KomodoInsurance\bin\Debug\KomodoInsurance.pdb
-C:\ElevenFiftyProjects\135SD\MorningChallenges\KomodoInsurance\obj\Debug\KomodoInsurance.csproj.AssemblyReference.cache
-C:\ElevenFiftyProjects\135SD\MorningChallenges\KomodoInsurance\obj\Debug\KomodoInsurance.csproj.CoreCompileInputs.cache
-C:\ElevenFiftyProjects\135SD\MorningChallenges\KomodoInsurance\obj\Debug\KomodoInsurance.dll
-C:\ElevenFiftyProjects\135SD\MorningChallenges\KomodoInsurance\obj\Debug\KomodoInsurance.pdb

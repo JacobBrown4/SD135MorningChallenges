@@ -1,8 +1,0 @@
-C:\ElevenFiftyProjects\135SD\MorningChallenges\BakerStreetBakery\bin\Debug\BakerStreetBakery.exe.config
-C:\ElevenFiftyProjects\135SD\MorningChallenges\BakerStreetBakery\bin\Debug\BakerStreetBakery.exe
-C:\ElevenFiftyProjects\135SD\MorningChallenges\BakerStreetBakery\bin\Debug\BakerStreetBakery.pdb
-C:\ElevenFiftyProjects\135SD\MorningChallenges\BakerStreetBakery\obj\Debug\BakerStreetBakery.csproj.SuggestedBindingRedirects.cache
-C:\ElevenFiftyProjects\135SD\MorningChallenges\BakerStreetBakery\obj\Debug\BakerStreetBakery.csproj.CoreCompileInputs.cache
-C:\ElevenFiftyProjects\135SD\MorningChallenges\BakerStreetBakery\obj\Debug\BakerStreetBakery.exe
-C:\ElevenFiftyProjects\135SD\MorningChallenges\BakerStreetBakery\obj\Debug\BakerStreetBakery.pdb
-C:\ElevenFiftyProjects\135SD\MorningChallenges\BakerStreetBakery\obj\Debug\BakerStreetBakery.csproj.AssemblyReference.cache
