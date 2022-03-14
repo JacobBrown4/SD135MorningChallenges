@@ -36,6 +36,16 @@ namespace KomodoInsuranceUnitTests
             }
         }
 
-        
+        [TestMethod]
+        public void MakingIVehicleTypes_ShouldWorkTogether()
+        {
+            Motorcyle motorcyle = new Motorcyle();
+            SUV suv = new SUV();
+            Sedan sedan = new Sedan();
+            List<IVehicle> vehicles = new List<IVehicle>() { suv,sedan,motorcyle};
+            vehicles[1].TurnOn();
+            vehicles[1].Drive();
+
+        }
     }
 }

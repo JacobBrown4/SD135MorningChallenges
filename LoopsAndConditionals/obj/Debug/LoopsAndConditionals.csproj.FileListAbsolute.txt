@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\LoopsAndConditionals.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\LoopsAndConditionals.pdb
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\obj\Debug\LoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\obj\Debug\LoopsAndConditionals.csproj.CopyComplete
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\obj\Debug\LoopsAndConditionals.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\LoopsAndConditionals\obj\Debug\LoopsAndConditionals.pdb

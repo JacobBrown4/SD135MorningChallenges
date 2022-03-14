@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\W1D4 Class.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\W1D4 Class.pdb
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\obj\Debug\W1D4 Class.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\obj\Debug\W1D4 Class.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\obj\Debug\W1D4 Class.csproj.CopyComplete
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\obj\Debug\W1D4 Class.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\W1D4 Class\obj\Debug\W1D4 Class.pdb

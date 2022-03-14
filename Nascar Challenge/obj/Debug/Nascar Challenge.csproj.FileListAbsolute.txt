@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Nascar Challenge.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Nascar Challenge.pdb
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\obj\Debug\Nascar Challenge.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\obj\Debug\Nascar Challenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\obj\Debug\Nascar Challenge.csproj.CopyComplete
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\obj\Debug\Nascar Challenge.dll
+C:\ElevenFiftyProjects\135SD\MorningChallenges\Nascar Challenge\obj\Debug\Nascar Challenge.pdb

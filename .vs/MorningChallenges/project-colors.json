@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4dc4aa1e-a065-4ddf-bce4-d461a3d3e06b": {
+      "ProjectGuid": "4dc4aa1e-a065-4ddf-bce4-d461a3d3e06b",
+      "DisplayName": "LoopsAndConditionals",
+      "ColorIndex": 0
+    },
+    "aed20bd6-cfd8-415e-ae41-a29bc32242c1": {
+      "ProjectGuid": "aed20bd6-cfd8-415e-ae41-a29bc32242c1",
+      "DisplayName": "W1D4 Class",
+      "ColorIndex": 1
+    },
+    "c2f4c584-3765-4d07-babe-b2957c01e98d": {
+      "ProjectGuid": "c2f4c584-3765-4d07-babe-b2957c01e98d",
+      "DisplayName": "Nascar Challenge",
+      "ColorIndex": 2
+    },
+    "88243fa0-90e8-4273-8478-1179bf99a996": {
+      "ProjectGuid": "88243fa0-90e8-4273-8478-1179bf99a996",
+      "DisplayName": "CalculatorChallenge",
+      "ColorIndex": 3
+    },
+    "92ba27f1-fdff-49e7-8aa0-e5a03b8e1fa2": {
+      "ProjectGuid": "92ba27f1-fdff-49e7-8aa0-e5a03b8e1fa2",
+      "DisplayName": "KomodoInsurance",
+      "ColorIndex": 4
+    },
+    "17deb92c-bfec-42fb-8325-06ea3c2140df": {
+      "ProjectGuid": "17deb92c-bfec-42fb-8325-06ea3c2140df",
+      "DisplayName": "KomodoInsuranceUnitTests",
+      "ColorIndex": 5
+    },
+    "48c51dcf-391c-4d7a-a9b2-61f4531ed7b0": {
+      "ProjectGuid": "48c51dcf-391c-4d7a-a9b2-61f4531ed7b0",
+      "DisplayName": "BakerStreetBakery",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
