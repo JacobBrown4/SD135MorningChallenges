@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KomodoInsurance
 {
-    public interface IVehicle
+    public interface IVehicle // My interface
     {
         void TurnOn();
         void TurnOff();
