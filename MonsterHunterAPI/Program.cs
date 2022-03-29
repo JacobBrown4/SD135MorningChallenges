@@ -12,6 +12,7 @@ namespace MonsterHunterAPI
         {
             MHService _mh = new MHService();
             var monster = _mh.GetMonsterById(10).Result;
+            var result = _mh.GetMonsters().Result;
             Console.ReadKey();            
         }
     }
