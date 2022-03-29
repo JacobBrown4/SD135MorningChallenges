@@ -46,7 +46,7 @@ namespace BoredAPI
             return null;
         }
 
-        public async Task<Event> GetActivityByPriceRangeAsync(string min,string max)
+        public async Task<Event> GetActivityByPriceRangeAsync(string min, string max)
         {
             double minNum;
             if (!double.TryParse(min, out minNum))
@@ -64,5 +64,7 @@ namespace BoredAPI
             }
             return null;
         }
+
+        
     }
 }
